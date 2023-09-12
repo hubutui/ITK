@@ -29,6 +29,7 @@
 #define itkLabelMap_hxx
 
 #include "itkProcessObject.h"
+#include "itkImageBase.h"
 
 #include <algorithm>
 
